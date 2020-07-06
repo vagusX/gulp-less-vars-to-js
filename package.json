@@ -1,6 +1,6 @@
 {
 	"name": "gulp-less-vars-to-js",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"description": "gulp plugin for less-vars-to-js",
 	"license": "MIT",
 	"repository": "vagusX/gulp-less-vars-to-js",
