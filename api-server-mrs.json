@@ -1,0 +1,200 @@
+{
+  "total": 37,
+  "state_counts": [
+    {
+      "count": 20,
+      "state": "closed"
+    },
+    {
+      "count": 37,
+      "state": "merged"
+    }
+  ],
+  "list": [
+    {
+      "timestamp": "2020-04-17T09:57:05+0800",
+      "title": "feat/create-cr",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/587"
+    },
+    {
+      "timestamp": "2020-04-16T23:09:56+0800",
+      "title": "fix: 默认选中当前迭代分支target-branch,要触发file-tree的render",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/585"
+    },
+    {
+      "timestamp": "2020-04-16T22:17:30+0800",
+      "title": "fix: source-branch要使用origin/的，而不是本地的",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/583"
+    },
+    {
+      "timestamp": "2020-04-16T22:01:11+0800",
+      "title": "fix: 默认选中当前迭代分支target-branch",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/581"
+    },
+    {
+      "timestamp": "2020-04-16T21:46:10+0800",
+      "title": "feat/create-cr",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/579"
+    },
+    {
+      "timestamp": "2020-04-16T20:15:32+0800",
+      "title": "fix: 在没有selectedPR的情况下，新建CR面板无法DIFF的问题",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/576"
+    },
+    {
+      "timestamp": "2020-04-16T15:43:10+0800",
+      "title": "fix: 使用非预览模式打开新建PR窗口",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/571"
+    },
+    {
+      "timestamp": "2020-04-16T10:58:31+0800",
+      "title": "fix: 当没有项目时才显示 请选择PR或者创建PR",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/569"
+    },
+    {
+      "timestamp": "2020-04-15T20:31:13+0800",
+      "title": "fix: 打开diff-editors时，不使用preview模式",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/564"
+    },
+    {
+      "timestamp": "2020-04-15T19:38:42+0800",
+      "title": "update ide-fw version to v1.8.5-next-59a22cac",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/562"
+    },
+    {
+      "timestamp": "2020-04-15T20:21:55+0800",
+      "title": "fix: 描述改成多行的textarea",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/563"
+    },
+    {
+      "timestamp": "2020-04-15T19:20:27+0800",
+      "title": "不显示请选择PR，以及点击差异树节点打开diff视图",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/561"
+    },
+    {
+      "timestamp": "2020-04-15T12:18:09+0800",
+      "title": "fix: 切换PR导致的本地branch-change，不要再触发切换PR",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/553"
+    },
+    {
+      "timestamp": "2020-04-14T18:49:21+0800",
+      "title": "创建PR成功后，刷新左侧PR列表",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/550"
+    },
+    {
+      "timestamp": "2020-04-14T16:46:52+0800",
+      "title": "source-branch是不能选择的",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/545"
+    },
+    {
+      "timestamp": "2020-04-13T20:06:12+0800",
+      "title": "feat: 完善差异树视图切换的tab icon",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/534"
+    },
+    {
+      "timestamp": "2020-04-10T16:29:51+0800",
+      "title": "新建PR功能",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/520"
+    },
+    {
+      "timestamp": "2020-03-30T14:33:19+0800",
+      "title": "fix: assignee为null的状况,extern-uid报错",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/483"
+    },
+    {
+      "timestamp": "2020-03-27T10:47:55+0800",
+      "title": "fix: pr已经merged或closed，相关source-branch已经被删除，不要执行diff",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/475"
+    },
+    {
+      "timestamp": "2020-03-26T20:56:19+0800",
+      "title": "feat/cr-new-pr-list",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/473"
+    },
+    {
+      "timestamp": "2020-03-25T23:07:25+0800",
+      "title": "feat: pr-list-select控件升级，需要支持group和tag",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/462"
+    },
+    {
+      "timestamp": "2020-03-20T19:32:17+0800",
+      "title": "feat: 补充pr-switch面板的信息，比如总评论数，作者",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/449"
+    },
+    {
+      "timestamp": "2020-03-19T21:57:56+0800",
+      "title": "fix/cr-reload-only-on-branch-change",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/447"
+    },
+    {
+      "timestamp": "2020-03-19T20:30:35+0800",
+      "title": "fix: 除pr切换引起的branch change，才会重载cr模块",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/446"
+    },
+    {
+      "timestamp": "2020-03-19T17:53:50+0800",
+      "title": "chore: upgrade release version",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/441"
+    },
+    {
+      "timestamp": "2020-03-19T13:53:34+0800",
+      "title": "fix/code-review-standard-bugs",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/436"
+    },
+    {
+      "timestamp": "2020-03-18T21:47:10+0800",
+      "title": "fix: 只有在private-token存在的时候加载code-review模块",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/429"
+    },
+    {
+      "timestamp": "2020-03-18T16:38:54+0800",
+      "title": "feat: 没有迭代分支时，取state=opened的pr-list",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/425"
+    },
+    {
+      "timestamp": "2020-03-18T10:52:28+0800",
+      "title": "feat/code-review-standard",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/421"
+    },
+    {
+      "timestamp": "2020-03-02T22:41:43+0800",
+      "title": "fix: 目录的图标问题",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/309"
+    },
+    {
+      "timestamp": "2020-02-28T20:52:53+0800",
+      "title": "fix: 把高度hack的方式改为weight指定高度比例",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/295"
+    },
+    {
+      "timestamp": "2020-02-26T20:57:20+0800",
+      "title": "把select控件的外边距改成8px",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/278"
+    },
+    {
+      "timestamp": "2020-02-26T19:14:15+0800",
+      "title": "fix: 折叠文件时，大于两层的后代节点不能隐藏的问题",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/275"
+    },
+    {
+      "timestamp": "2020-02-26T17:17:05+0800",
+      "title": "feat: 给file-tree的文件节点，增加评论数",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/273"
+    },
+    {
+      "timestamp": "2020-02-26T12:09:41+0800",
+      "title": "fix: 修复交互体验方面的缺陷，点击变更文件时发生的抖动和select被遮盖的问题",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/270"
+    },
+    {
+      "timestamp": "2020-02-05T21:22:21+0800",
+      "title": "chore/0206version",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/211"
+    },
+    {
+      "timestamp": "2019-12-18T20:09:18+0800",
+      "title": "feat: test version",
+      "link": "https://code.alipay.com/cloud-ide/api-server/pull_requests/125"
+    }
+  ]
+}

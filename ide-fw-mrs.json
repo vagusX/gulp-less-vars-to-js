@@ -1,0 +1,631 @@
+{
+	"total": 37,
+	"state_counts": [
+		{
+			"count": 19,
+			"state": "closed"
+		},
+		{
+			"count": 37,
+			"state": "merged"
+		}
+	],
+	"list":
+	[
+		{
+			"title": "fix: preference顶部header采用tab的颜色方案而不是activeBar的",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/670259",
+			"timestamp": "2020-01-21T02:53:19Z"
+		},
+		{
+			"title": "fix: preference面板左侧边距需要调整到64px",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/668457",
+			"timestamp": "2020-01-19T02:45:20Z"
+		},
+		{
+			"title": "fix: preference设置面板的颜色调整",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/664634",
+			"timestamp": "2020-01-15T12:12:45Z"
+		},
+		{
+			"title": "feat: 选中某个设置组的功能",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/647528",
+			"timestamp": "2020-01-02T04:32:50Z"
+		},
+		{
+			"title": "fix: preference-view的number类型的Input的输入校验问题",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/638593",
+			"timestamp": "2019-12-26T02:48:37Z"
+		},
+		{
+			"title": "fix: tab切换按键和monaco内置的光标按键有冲突，改成cmd+ctrl+left/right",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/636914",
+			"timestamp": "2019-12-25T12:12:59Z"
+		},
+		{
+			"title": "fix: 浏览器端重新打开关闭的标签的快捷键改成alt+shift+t、关闭所有编辑器改成alt+shift+p",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/629357",
+			"timestamp": "2019-12-18T11:15:46Z"
+		},
+		{
+			"title": "fix: 选择左边或者右边的编辑器窗口的快捷键的浏览器兼容性问题",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/626055",
+			"timestamp": "2019-12-18T06:25:43Z"
+		},
+		{
+			"title": "fix: 搜索框被隐藏的bug",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/621752",
+			"timestamp": "2019-12-12T11:58:00Z"
+		},
+		{
+			"title": "feat: 隐藏头部的工作区和全局设置切换选项",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/619979",
+			"timestamp": "2019-12-12T02:43:39Z"
+		},
+		{
+			"title": "feat: 更换工作区设置与全局设置位置，方便用户修改",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/619659",
+			"timestamp": "2019-12-11T03:39:45Z"
+		},
+		{
+			"title": "feat: 给output增加linkfiy的能力，改造ansi-to-react库",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/612870",
+			"timestamp": "2019-12-06T02:49:05Z"
+		},
+		{
+			"title": "fix: 扩展管理、调试和git面板的快捷键",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/596070",
+			"timestamp": "2019-11-21T11:35:27Z"
+		},
+		{
+			"title": "fix: preference-view的添加按钮在视图较小时错位的视觉问题",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/595346",
+			"timestamp": "2019-11-21T04:48:22Z"
+		},
+		{
+			"title": "fix: 快捷键切换到指定底部面板后，再次触发快捷键隐藏底部面板，实现toogle交互",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/595179",
+			"timestamp": "2019-11-21T04:14:28Z"
+		},
+		{
+			"title": "feat: 给output增加contentChange事件，广播给关心output的模块",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/582948",
+			"timestamp": "2019-11-15T02:37:04Z"
+		},
+		{
+			"title": "feat: 给preference-view增加以插件section为索引的二层subtree结构",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/581993",
+			"timestamp": "2019-11-11T14:03:59Z"
+		},
+		{
+			"title": "feat: 给preference-view的array-item的视图细节做功能优化增加删除按钮",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/580763",
+			"timestamp": "2019-11-08T10:23:37Z"
+		},
+		{
+			"title": "fix: array类型的items不是string就使用edit in settings方案",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/575466",
+			"timestamp": "2019-11-05T01:53:22Z"
+		},
+		{
+			"title": "fix: 给preference-view做一些样式调整",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/574470",
+			"timestamp": "2019-11-01T10:33:59Z"
+		},
+		{
+			"title": "fix: 给preference-view增加防御性的代码，底层数据不可信任",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/572553",
+			"timestamp": "2019-10-31T05:09:46Z"
+		},
+		{
+			"title": "fix: folder和file的icon的左对齐问题",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/572419",
+			"timestamp": "2019-10-31T05:08:43Z"
+		},
+		{
+			"title": "refactor: 重构output和preference在react-key的使用规范性问题",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/571451",
+			"timestamp": "2019-10-30T11:07:22Z"
+		},
+		{
+			"title": "fix: output模块的单测",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/570856",
+			"timestamp": "2019-10-29T14:53:22Z"
+		},
+		{
+			"title": "fix: output模块的刷新闪烁的问题",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/570134",
+			"timestamp": "2019-10-29T08:41:20Z"
+		},
+		{
+			"title": "fix: 修复gtts-1398 terminal面板展开按钮支持toogle (通过让toolbar支持toogleIconClass来实现)",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/566722",
+			"timestamp": "2019-10-26T05:39:36Z"
+		},
+		{
+			"title": "refactor: terminal的contribution要独立到单独的文件中",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/565891",
+			"timestamp": "2019-10-24T11:14:17Z"
+		},
+		{
+			"title": "fix: main-layout展开terminal面板后刷新页面无法恢复",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/565889",
+			"timestamp": "2019-10-24T11:12:47Z"
+		},
+		{
+			"title": "fix: 增加terminal的清屏快捷键的context约束，必须在terminal处于focused状态时，该快捷键才启用",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/563548",
+			"timestamp": "2019-10-23T08:25:57Z"
+		},
+		{
+			"title": "fix: 修复GTTS-1428  explorer的文件图标不能对齐的问题",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/562617",
+			"timestamp": "2019-10-22T13:35:39Z"
+		},
+		{
+			"title": "fix: 修复GTTS-1418 给terminal增加command+k的清屏快捷键",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/562201",
+			"timestamp": "2019-10-22T11:49:17Z"
+		},
+		{
+			"title": "fix: menu-bar的i18n问题，显示左侧面板在英文下没有语言设置",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/561529",
+			"timestamp": "2019-10-22T11:56:19Z"
+		},
+		{
+			"title": "fix: bug GTTS-1422 编辑区如果拖动到最右边就无法再拖回来了",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/560558",
+			"timestamp": "2019-10-22T04:43:22Z"
+		},
+		{
+			"title": "fix: preference-view的添加按钮的样式和多语言问题",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/558384",
+			"timestamp": "2019-10-18T09:50:39Z"
+		},
+		{
+			"title": "build: webpack前端编译流程改进，inline-source-map改为inline-cheap-source-map",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/556194",
+			"timestamp": "2019-10-17T15:26:25Z"
+		},
+		{
+			"title": "feat: 给output增加ansi转义",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/554498",
+			"timestamp": "2019-10-16T11:13:20Z"
+		},
+		{
+			"title": "fix: preference-view tab的i18n的bug",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/553601",
+			"timestamp": "2019-10-16T04:25:29Z"
+		},
+		{
+			"title": "fix: output的i18n相关问题",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/553594",
+			"timestamp": "2019-10-16T04:25:47Z"
+		},
+		{
+			"title": "fix: monaco读取到i18n配置为en-us时，不应该设置为es的语言包，直接置为空即可",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/552647",
+			"timestamp": "2019-10-15T09:08:11Z"
+		},
+		{
+			"title": "chore: 给ci瘦身，jest converage里面去掉插件download和compile的任务",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/552478",
+			"timestamp": "2019-10-15T09:05:26Z"
+		},
+		{
+			"title": "fix: 语言切换时提示是否立即刷新生效",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/551932",
+			"timestamp": "2019-10-15T09:01:46Z"
+		},
+		{
+			"title": "fix: 数组编辑的输入校验，非空判断",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/548732",
+			"timestamp": "2019-10-13T11:32:22Z"
+		},
+		{
+			"title": "fix: 视觉调整GTTS1283",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/547787",
+			"timestamp": "2019-10-11T13:14:40Z"
+		},
+		{
+			"title": "feat: 增加array类型的渲染和增删",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/538485",
+			"timestamp": "2019-09-27T14:45:03Z"
+		},
+		{
+			"title": "fix: defaultPreference的获取",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/538093",
+			"timestamp": "2019-09-27T07:49:16Z"
+		},
+		{
+			"title": "fix: 当文件不存在时点击edit in settings会报错",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/535278",
+			"timestamp": "2019-09-26T03:05:00Z"
+		},
+		{
+			"title": "feat: monaco对接preference的editor项目",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/532709",
+			"timestamp": "2019-09-24T10:36:35Z"
+		},
+		{
+			"title": "feat: monaco对接preference的editor项目",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/532682",
+			"timestamp": "2019-09-24T10:36:21Z"
+		},
+		{
+			"title": "fix: gtts1073，resource-monitor插件出现了不可能出现的string[]类型",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/531193",
+			"timestamp": "2019-09-23T13:47:08Z"
+		},
+		{
+			"title": "fix: gtts1073，resource-monitor插件出现了不可能出现的string[]类型",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/531184",
+			"timestamp": "2019-09-23T13:47:52Z"
+		},
+		{
+			"title": "fix: 切换语言菜单改为中英文切换",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/524451",
+			"timestamp": "2019-09-18T13:13:38Z"
+		},
+		{
+			"title": "fix: 优化preference-view的样式，固定左侧tabbar高度，去掉全局tabindex的样式",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/524007",
+			"timestamp": "2019-09-18T13:11:40Z"
+		},
+		{
+			"title": "修复preference修改时所有插件都会报错的缺陷：GTTS-876",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/521820",
+			"timestamp": "2019-09-17T10:51:15Z"
+		},
+		{
+			"title": "fix: output.show调用的时候，切换到指定的channel",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/519695",
+			"timestamp": "2019-09-16T08:42:48Z"
+		},
+		{
+			"title": "fix: 去掉statusbar的i18n提示",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/517348",
+			"timestamp": "2019-09-12T11:18:06Z"
+		},
+		{
+			"title": "fix: preference-view 改为左侧的tab，并且实现i18n的description",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/517343",
+			"timestamp": "2019-09-12T11:18:41Z"
+		},
+		{
+			"title": "fix: output.show和output的样式适配问题",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/514044",
+			"timestamp": "2019-09-11T02:06:06Z"
+		},
+		{
+			"title": "fix: 换个样式实现menu-item的disabled状态",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/513654",
+			"timestamp": "2019-09-09T07:43:37Z"
+		},
+		{
+			"title": "Feat/preferenceview",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/513548",
+			"timestamp": "2019-09-09T07:33:56Z"
+		},
+		{
+			"title": "Feat/preferenceview",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/510170",
+			"timestamp": "2019-09-06T07:00:33Z"
+		},
+		{
+			"title": "fix: 缺陷ID:GTTS-923， ctx menu 支持 group 分组",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/506956",
+			"timestamp": "2019-09-04T08:23:15Z"
+		},
+		{
+			"title": "fix: output面板的自动滚动",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/504368",
+			"timestamp": "2019-09-02T10:00:28Z"
+		},
+		{
+			"title": "fix: 体验的一些打磨和vscode保持一致，bug的修复",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/500071",
+			"timestamp": "2019-08-30T09:26:08Z"
+		},
+		{
+			"title": "Feat/preferenceview",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/498337",
+			"timestamp": "2019-08-29T03:02:00Z"
+		},
+		{
+			"title": "feat: number/integer/text/enums/boolean控件的样式打磨",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/496708",
+			"timestamp": "2019-08-27T11:35:39Z"
+		},
+		{
+			"title": "fix: window.state的多实例问题",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/492157",
+			"timestamp": "2019-08-23T10:08:39Z"
+		},
+		{
+			"title": "feat: window-state的实现",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/488455",
+			"timestamp": "2019-08-22T07:13:19Z"
+		},
+		{
+			"title": "feat: prefrencelist功能的view/file schema/以及preference读写的初始化",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/487481",
+			"timestamp": "2019-08-27T11:11:55Z"
+		},
+		{
+			"title": "fix: output channel支持ContentChange事件，并且在ContentChange事件触发渲染机制",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/475479",
+			"timestamp": "2019-08-12T13:46:58Z"
+		},
+		{
+			"title": "fix: menu中的&&的处理",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/470669",
+			"timestamp": "2019-08-09T02:32:19Z"
+		},
+		{
+			"title": "feat: 增加editor/title的菜单，以及editor/title的贡献点",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/467980",
+			"timestamp": "2019-08-07T07:03:30Z"
+		},
+		{
+			"title": "fix: 默认语言包顶部menu栏的key名",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/466204",
+			"timestamp": "2019-08-06T03:05:43Z"
+		},
+		{
+			"title": "feat: 把vscode的日文语言包扩展引入进来",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/465964",
+			"timestamp": "2019-08-05T09:15:54Z"
+		},
+		{
+			"title": "Feat/menu contribute",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/463803",
+			"timestamp": "2019-08-05T03:04:27Z"
+		},
+		{
+			"title": "feat: 新增menus贡献点",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/463163",
+			"timestamp": "2019-08-01T13:30:26Z"
+		},
+		{
+			"title": "feat: 对vscode的语言包扩展的支持",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/458947",
+			"timestamp": "2019-07-30T08:21:26Z"
+		},
+		{
+			"title": "fix: observable output channels",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/455574",
+			"timestamp": "2019-07-26T08:30:07Z"
+		},
+		{
+			"title": "refactor: output的样式的调整",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/453878",
+			"timestamp": "2019-07-29T12:16:53Z"
+		},
+		{
+			"title": "fix: status bar set element api report errors",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/453284",
+			"timestamp": "2019-07-29T12:16:53Z"
+		},
+		{
+			"title": "feat: 新增vscode.window.createOutput",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/452559",
+			"timestamp": "2019-07-29T12:16:53Z"
+		},
+		{
+			"title": "feat: 新增vscode.window.createStatusItem",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/451592",
+			"timestamp": "2019-07-24T16:27:15Z"
+		},
+		{
+			"title": "refactor: 清理无用的example",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/449384",
+			"timestamp": "2019-07-23T04:23:30Z"
+		},
+		{
+			"title": "output channel切换的能力",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/448340",
+			"timestamp": "2019-07-22T09:17:00Z"
+		},
+		{
+			"title": "feat: 新增output模块，基础的output渲染 ouputchannel管理功能",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/448132",
+			"timestamp": "2019-07-22T06:42:31Z"
+		},
+		{
+			"title": "启动包从main-layout转移到startup",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/445478",
+			"timestamp": "2019-07-19T14:43:18Z"
+		},
+		{
+			"title": "feat: statusbar的disposable的实现和演示  以及 支持了hideAfterTimeout参数",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/444996",
+			"timestamp": "2019-07-18T07:33:54Z"
+		},
+		{
+			"title": "feat: statusbar的基础api",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/443985",
+			"timestamp": "2019-07-18T06:31:21Z"
+		},
+		{
+			"title": "Feat/vscode extension api",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/441074",
+			"timestamp": "2019-07-16T06:43:20Z"
+		},
+		{
+			"title": "feat: 增加对format的依赖，可以在i18n语言包中使用%s %d等变量占位符，然后用format格式化提供变量值",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/430932",
+			"timestamp": "2019-07-08T04:57:07Z"
+		},
+		{
+			"title": "feat: 增加多语言切换的示例代码",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/427706",
+			"timestamp": "2019-07-04T10:25:58Z"
+		},
+		{
+			"title": "feat: 增加env支持插件注册自己的语言包，以及初始化时传入当前使用的语言包",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/423618",
+			"timestamp": "2019-07-02T15:11:00Z"
+		},
+		{
+			"title": "refactor: core-browser中的context-key-service独立出来",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/420195",
+			"timestamp": "2019-06-27T08:40:29Z"
+		},
+		{
+			"title": "main-layout模块增加InitedEvent事件,menu增加对when机制的支持",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/414963",
+			"timestamp": "2019-06-25T02:05:27Z"
+		},
+		{
+			"title": "fix: 给isVisible和isEnable透传参数，触发右键菜单时的参数",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/411888",
+			"timestamp": "2019-06-21T09:20:57Z"
+		},
+		{
+			"title": "feat: contextMenu和menu共享同一个menuPath机制和同样的command",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/409778",
+			"timestamp": "2019-06-20T02:55:37Z"
+		},
+		{
+			"title": "feat: 添加layout模块的api文档",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/406563",
+			"timestamp": "2019-06-17T04:10:35Z"
+		},
+		{
+			"title": "fix: 让terminal的高度自适应外层容器",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/403982",
+			"timestamp": "2019-06-14T06:08:22Z"
+		},
+		{
+			"title": "fix: 修改bottomPanel的样式问题，适应整体风格",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/402265",
+			"timestamp": "2019-06-12T08:43:31Z"
+		},
+		{
+			"title": "feat: 增加output面板，可以展示多个botton-panel的dockable功能",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/400774",
+			"timestamp": "2019-06-12T02:05:26Z"
+		},
+		{
+			"title": "feat: 给status-bar增加对bottom-panel显示隐藏的功能",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/400667",
+			"timestamp": "2019-06-11T10:00:51Z"
+		},
+		{
+			"title": "feat: bottomPanel模块，支持dockable",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/400476",
+			"timestamp": "2019-06-11T08:46:27Z"
+		},
+		{
+			"title": "feat: 初始化search模块",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/399024",
+			"timestamp": "2019-06-11T12:15:27Z"
+		},
+		{
+			"title": "git模块初始化",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/398868",
+			"timestamp": "2019-06-11T12:15:27Z"
+		},
+		{
+			"title": "fix: activator-panel的高度适应的问题，设置为100%",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/398760",
+			"timestamp": "2019-06-10T08:04:23Z"
+		},
+		{
+			"title": "feat: 给邮件菜单加一个focusTarget参数，可以透传到command的execute中",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/397320",
+			"timestamp": "2019-06-06T08:11:58Z"
+		},
+		{
+			"title": "fix: 一些resize时的layout-update",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/395643",
+			"timestamp": "2019-06-05T08:00:54Z"
+		},
+		{
+			"title": "feat: 对右键菜单的支持",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/393882",
+			"timestamp": "2019-06-05T12:19:58Z"
+		},
+		{
+			"title": "fix: build过不去的问题，缺少依赖或者依赖顺序",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/391627",
+			"timestamp": "2019-06-05T12:19:58Z"
+		},
+		{
+			"title": "fix: file-tree中的冲突",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/391315",
+			"timestamp": "2019-06-05T12:19:57Z"
+		},
+		{
+			"title": "编辑器左侧activator-bar的panel的注册",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/391215",
+			"timestamp": "2019-06-05T12:19:57Z"
+		},
+		{
+			"title": "feat: terminal前端部分代码",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/383369",
+			"timestamp": "2019-05-25T07:31:32Z"
+		},
+		{
+			"title": "feat: 系统启动时默认使用main-layout",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/381454",
+			"timestamp": "2019-05-23T08:22:35Z"
+		},
+		{
+			"title": "feat: menu-bar样式适应为ide色调",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/381128",
+			"timestamp": "2019-05-23T06:21:31Z"
+		},
+		{
+			"title": "refactor: 重构ide-widget，将widget初始化内部slot内容内聚在ide-widget的initWidget中",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/379701",
+			"timestamp": "2019-05-23T06:17:07Z"
+		},
+		{
+			"title": "feat: 给Main-layout的widget增加resize事件，走eventBus通道",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/379353",
+			"timestamp": "2019-05-22T06:20:18Z"
+		},
+		{
+			"title": "feat: 完善menu-bar的文件、编辑、查看三个菜单，使用i18n多语言支持",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/378231",
+			"timestamp": "2019-05-21T09:18:24Z"
+		},
+		{
+			"title": "fix: 实现Module接口的active函数，来完成main-layout的命令注册",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/375995",
+			"timestamp": "2019-05-20T03:39:17Z"
+		},
+		{
+			"title": "menu-bar通过Command模块控制main-layout中slot的面板隐藏功能",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/374789",
+			"timestamp": "2019-05-20T03:00:22Z"
+		},
+		{
+			"title": "fix: 引入暂时没有提交的文件bug",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/374302",
+			"timestamp": "2019-05-17T02:57:36Z"
+		},
+		{
+			"title": "fix: jsx和phosphor桥接的时候丢失context的问题",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/373855",
+			"timestamp": "2019-05-16T10:27:59Z"
+		},
+		{
+			"title": "chore: 降低覆盖率阈值到0",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/372035",
+			"timestamp": "2019-05-15T10:27:52Z"
+		},
+		{
+			"title": "将slot的定义从core-browser中拆分到main-layout中",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/371721",
+			"timestamp": "2019-05-15T10:06:55Z"
+		},
+		{
+			"title": "ide的整体布局主框架模块以及主菜单的框架模块",
+			"link": "http://gitlab.alibaba-inc.com/kaitian/ide-framework/merge_requests/370193",
+			"timestamp": "2019-05-14T09:59:02Z"
+		}
+	]
+}
